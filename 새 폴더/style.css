@@ -13,3 +13,9 @@
     display: flex;
     justify-content: center;
 }
+#lol{
+    display: flex;
+    position: fixed;
+    top: 90%;
+    justify-content: center;
+}
