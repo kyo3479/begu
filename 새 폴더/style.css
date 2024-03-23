@@ -1,5 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100..900&display=swap');
+*{
+    font-family: "Noto Sans KR", sans-serif;
+    font-size: 20px;
+}
 #input1{
     display: flex;
     justify-content: center;
     padding-top: 100px;
+}
+#result{
+    display: flex;
+    justify-content: center;
 }
