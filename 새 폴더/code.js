@@ -6,9 +6,9 @@ function print(){
     const user_id = document.getElementById("iname").value;
     console.log(user_id)
     if (good.includes(user_id)){
-        document.getElementById("result").innerText = "합격!";
+        document.getElementById("result").innerText = "합격입니다!";
     }else{
-        document.getElementById("result").innerText = "불합격";
+        document.getElementById("result").innerText = "불합격입니다 아쉽군요.";
     }
     
 }
