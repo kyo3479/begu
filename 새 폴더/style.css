@@ -9,6 +9,7 @@
     padding-top: 100px;
 }
 #result{
+    padding-top: 10px;
     display: flex;
     justify-content: center;
 }
